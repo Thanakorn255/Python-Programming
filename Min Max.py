@@ -1,6 +1,3 @@
-from itertools import count
-
-
 num = int(input())
 num_list = []
 count = 0
